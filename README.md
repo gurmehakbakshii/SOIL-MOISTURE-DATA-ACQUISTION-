@@ -28,6 +28,7 @@ Data Acquisition & Processing
 Moisture Reading
   ↓
 Analysis / Monitoring
+```
 
 ## Hardware Components
 Soil Moisture Sensor,
