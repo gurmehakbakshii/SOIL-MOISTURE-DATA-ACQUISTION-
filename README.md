@@ -29,16 +29,16 @@ Moisture Reading
 Analysis / Monitoring
 
 ## Hardware Components
-Soil Moisture Sensor
-Arduino Development Board
-Connecting Wires
-Breadboard 
-LCD Display
+Soil Moisture Sensor,
+Arduino Development Board,
+Connecting Wires,
+Breadboard,
+LCD Display,
 Power Supply
 
 ## Software
-C/C++ code
-Arduino IDE 
+C/C++ code,
+Arduino IDE, 
 Serial Monitor for observing acquired data
 
 ## Working Principle
