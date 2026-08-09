@@ -14,6 +14,7 @@ The system captures moisture readings from the soil and provides corresponding d
 - Provide a foundation for automated irrigation and smart agriculture applications.
 
 ## System Workflow
+```TEXT
 Soil
   ↓
 Soil Moisture Sensor
